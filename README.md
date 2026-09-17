@@ -33,7 +33,7 @@ minimum_wage_data.csv — state-wise minimum wage reference data used by the app
 prompts.md — the exact PartyRock prompts used to build the app
 screenshots/ — screenshots of the working app
 Live Demo
-Try it here: [PartyRock app link — paste here]
+Try it here: [https://partyrock.aws/u/anuragjoshiii/ngeqGaRSs/Migrant-Worker-Fair-Pay-Checker]
 Demo Video
 Watch here: [Video link — paste here]
 Built solo in 3 days for First Commit, Bharat Builds Tour.
