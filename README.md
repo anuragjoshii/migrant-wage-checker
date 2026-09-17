@@ -66,9 +66,12 @@ This was my first time building with Amazon Bedrock / PartyRock. The biggest lea
 A supporting Python script (wage_gap_analysis.py) analyzes the wage dataset directly. It finds a 2.83x disparity between the highest-paying state (Karnataka, ~₹832/day avg) and the lowest-paying state (Rajasthan, ~₹294/day avg) in this sample for the same categories of work. It also produces an illustrative estimate (assumptions stated in the script) that if roughly 30% of India's ~10 crore migrant workers are underpaid by even ₹150/day, that could amount to a potential ₹1,40,400 crore/year in wage theft nationally. See state_wage_gap_chart.png for the visual breakdown by state.
 This estimate is explicitly a scale-illustrating calculation, not a measured statistic — it exists to communicate why an accessible wage-checking tool matters at national scale.
 ## Tools and AI Assistance Used
-**PartyRock (Amazon Bedrock)** — no-code app builder for the core wage-checking tool
-**Claude (Anthropic)** — used for project planning, drafting documentation, and writing/reviewing the wage_gap_analysis.py script
-All data compilation, testing, and final decisions were done by me
+- **PartyRock (Amazon Bedrock)** — no-code app builder for the core wage-checking tool.
+
+- **Claude (Anthropic)** — used for project planning, drafting documentation, and writing/reviewing the wage_gap_analysis.py script.
+
+
+- All data compilation, testing, and final decisions were done by me.
 
 ---
 
