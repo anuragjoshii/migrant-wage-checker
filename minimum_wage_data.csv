@@ -1,0 +1,49 @@
+state,job_category,skill_level,daily_wage_rs,monthly_wage_rs,labour_dept_helpline
+Delhi,Construction,Unskilled,695,18066,155214
+Delhi,Construction,Skilled,920,23905,155214
+Delhi,Domestic Work,Unskilled,695,18066,155214
+Delhi,Factory Work,Semi-Skilled,765,19890,155214
+Karnataka,Construction,Unskilled,780,20280,155214
+Karnataka,Construction,Skilled,1050,27300,155214
+Karnataka,Agriculture,Unskilled,650,16900,155214
+Karnataka,Factory Work,Semi-Skilled,850,22100,155214
+Maharashtra,Construction,Unskilled,540,14040,155214
+Maharashtra,Construction,Skilled,720,18720,155214
+Maharashtra,Agriculture,Unskilled,480,12480,155214
+Maharashtra,Domestic Work,Unskilled,500,13000,155214
+Tamil Nadu,Construction,Unskilled,532,13823,155214
+Tamil Nadu,Construction,Skilled,715,18590,155214
+Tamil Nadu,Agriculture,Unskilled,470,12220,155214
+Tamil Nadu,Factory Work,Semi-Skilled,600,15600,155214
+Rajasthan,Construction,Unskilled,285,7410,155214
+Rajasthan,Agriculture,Unskilled,285,7410,155214
+Rajasthan,Domestic Work,Unskilled,285,7410,155214
+Rajasthan,Factory Work,Semi-Skilled,320,8320,155214
+Gujarat,Construction,Unskilled,367,9542,155214
+Gujarat,Construction,Skilled,490,12740,155214
+Gujarat,Agriculture,Unskilled,340,8840,155214
+Gujarat,Factory Work,Semi-Skilled,410,10660,155214
+Madhya Pradesh,Construction,Unskilled,467,12150,155214
+Madhya Pradesh,Agriculture,Unskilled,420,10920,155214
+Madhya Pradesh,Domestic Work,Unskilled,420,10920,155214
+Uttar Pradesh,Construction,Unskilled,420,10920,155214
+Uttar Pradesh,Agriculture,Unskilled,390,10140,155214
+Uttar Pradesh,Domestic Work,Unskilled,390,10140,155214
+Bihar,Construction,Unskilled,370,9620,155214
+Bihar,Agriculture,Unskilled,340,8840,155214
+Bihar,Domestic Work,Unskilled,340,8840,155214
+West Bengal,Construction,Unskilled,400,10400,155214
+West Bengal,Agriculture,Unskilled,375,9750,155214
+West Bengal,Factory Work,Semi-Skilled,450,11700,155214
+Punjab,Construction,Unskilled,450,11700,155214
+Punjab,Agriculture,Unskilled,425,11050,155214
+Punjab,Factory Work,Semi-Skilled,500,13000,155214
+Haryana,Construction,Unskilled,477,12402,155214
+Haryana,Agriculture,Unskilled,450,11700,155214
+Haryana,Factory Work,Semi-Skilled,530,13780,155214
+Telangana,Construction,Unskilled,600,15600,155214
+Telangana,Agriculture,Unskilled,550,14300,155214
+Kerala,Construction,Unskilled,750,19500,155214
+Kerala,Agriculture,Unskilled,700,18200,155214
+Odisha,Construction,Unskilled,360,9360,155214
+Odisha,Agriculture,Unskilled,330,8580,155214
