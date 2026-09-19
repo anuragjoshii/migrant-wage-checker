@@ -59,7 +59,7 @@ This was my first time building with Amazon Bedrock / PartyRock. The biggest lea
 
 ## Demo Video
 
-**Watch Hackathon Demo Video:** [https://youtu.be/8jMNG8o9Yf4]
+**Watch Hackathon Demo Video:** https://youtu.be/8jMNG8o9Yf4
 
 
 ## Data Analysis
